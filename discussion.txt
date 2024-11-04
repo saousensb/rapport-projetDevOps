@@ -1,0 +1,2 @@
+Discussion : 
+Le rapport a permis d'explorer les résultats de plusieurs commandes de git.
